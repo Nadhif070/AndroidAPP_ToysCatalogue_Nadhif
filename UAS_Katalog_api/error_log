@@ -1,0 +1,27 @@
+[04-Jan-2025 00:04:11 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'teky6584_api_nadhif.available_toys' doesn't exist in /home/teky6584/public_html/project_api/api_nadhif/katalog/get_available_toys.php:16
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_nadhif/katalog/get_available_toys.php(16): mysqli->query()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_nadhif/katalog/get_available_toys.php on line 16
+[06-Jan-2025 01:02:59 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 17
+[06-Jan-2025 01:02:59 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 18
+[06-Jan-2025 01:04:09 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 17
+[06-Jan-2025 01:04:09 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 18
+[06-Jan-2025 16:31:26 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/teky6584/public_html/project_api/api_nadhif/katalog/login.php on line 9
+[06-Jan-2025 16:31:26 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home/teky6584/public_html/project_api/api_nadhif/katalog/login.php on line 10
+[09-Jan-2025 16:09:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 17
+[09-Jan-2025 16:09:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 18
+[09-Jan-2025 17:27:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 17
+[09-Jan-2025 17:27:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 18
+[16-Jan-2025 01:15:26 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 17
+[16-Jan-2025 01:15:26 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 18
+[19-Jan-2025 21:19:45 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 17
+[19-Jan-2025 21:19:45 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 18
+[20-Jan-2025 23:49:59 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 17
+[20-Jan-2025 23:49:59 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 18
+[21-Jan-2025 12:30:33 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 17
+[21-Jan-2025 12:30:33 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 18
+[21-Jan-2025 13:02:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 17
+[21-Jan-2025 13:02:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 18
+[21-Jan-2025 18:08:21 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 17
+[21-Jan-2025 18:08:21 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_nadhif/katalog/delete_reviews.php on line 18
